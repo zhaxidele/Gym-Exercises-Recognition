@@ -5,11 +5,17 @@ https://www.kaggle.com/datasets/zhaxidelebsz/10-gym-exercises-with-615-abstracte
 Data structure: 
 
 Object: 1-10 volunteers
+
 Day: 1-5 days
+
 Workout: Adductor, ArmCurl, BenchPress, LegCurl, LegPress, Riding, RopeSkipping, Running, Squat, StairsClimber, Walking, and "Null"
+
 Sensor_Position: with sensor worn on leg, pocket, wrist
+
 A_x,A_y,A_z: Accelerator signal
+
 G_x,G_y,G_z: Gyroscope signal 
+
 Body_Capacitance: Body capacitance signal
 
 
